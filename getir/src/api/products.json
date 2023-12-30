@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "title": "Lay's Mevsim Yeşillikli",
+      "image": "https://cdn.getir.com/product/5bc97aabb137fb001d751ac7_tr_1609123518121.jpeg",
+      "alt": "96 g",
+      "price": 28.10
+    },
+    {
+      "id": 2,
+      "title": "Eti Canga",
+      "image": "https://cdn.getir.com/product/5f3538dc71a71226677fba17_tr_1624437105104.jpeg",
+      "alt": "45 g",
+      "price": 8.25
+    },
+    {
+      "id": 3,
+      "title": "Kuzeyden",
+      "image": "https://cdn.getir.com/product/5a7b20fd8e19da0004bb27f8_tr_1615375864268.jpeg",
+      "alt": "1.5 L",
+      "price": 13.60
+    },
+    {
+      "id": 4,
+      "title": "Kızılay Erzincan",
+      "image": "https://cdn.getir.com/product/60018c5bca2126d84459c47f_tr_1610788125046.jpeg",
+      "alt": "6 x 200 ml",
+      "price": 26.99
+    },
+    {
+      "id": 5,
+      "title": "Ülker Napoliten",
+      "image": "https://cdn.getir.com/product/574b2219dee8a90300f18d24_tr_1599938278519.jpeg",
+      "alt": "33 g",
+      "price": 13.30
+    },
+    {
+      "id": 6,
+      "title": "Kavrulmuş Siyah Ay Çekirdeği",
+      "image": "https://cdn.getir.com/product/5ccaf4ff1a1763000175a869_tr_1580904995656.jpeg",
+      "alt": "180 g",
+      "price": 38.50
+    },
+    {
+      "id": 7,
+      "title": "Magnum Badem",
+      "image": "https://cdn.getir.com/product/559fec01f462100c00461d5c_tr_1618323765236.jpeg",
+      "alt": "100 ml",
+      "price": 25.00
+    },
+    {
+      "id": 8,
+      "title": "İçim %3 Yağlı Süt",
+      "image": "https://cdn.getir.com/product/5ced482d4a8a2a000137da6d_tr_1623652387464.jpeg",
+      "alt": "1 L",
+      "price": 33.99
+    },
+    {
+      "id": 9,
+      "title": "Doritos Nacho & Pepsi Max",
+      "image": "https://market-product-images-cdn.getirapi.com/product/74e0783e-87d7-4290-946d-4c6613f3e5a2.png",
+      "alt": "2 Ürün",
+      "price": 45.90
+    },
+    {
+      "id": 10,
+      "title": "Nutzz Popcorn Soğan",
+      "image": "https://market-product-images-cdn.getirapi.com/product/37254853-a289-4f2a-8097-444c5aabe18e.jpg",
+      "alt": "85 gr",
+      "price": 19.99
+    },
+    {
+      "id": 11,
+      "title": "Cornetto İkilisi",
+      "image": "https://market-product-images-cdn.getirapi.com/product/6d3fcfa7-90c3-4679-ab89-6f25f3585f81.jpg",
+      "alt": "2 x 130 ml",
+      "price": 39.90
+    },
+    {
+      "id": 12,
+      "title": "Bahçıvan Çeçil Peyniri",
+      "image": "https://cdn.getir.com/product/5bf52507dbaa09001e0dc2fe_tr_1608368368237.jpeg",
+      "alt": "200 g",
+      "price": 71.99
+    },
+    {
+      "id": 13,
+      "title": "The Whirl Kapsül Kahve Ocean",
+      "image": "https://market-product-images-cdn.getirapi.com/product/81231b21-e481-4d29-ae69-51146d219040.jpg",
+      "alt": "55 g",
+      "price": 122.30
+    },
+    {
+      "id": 14,
+      "title": "Kavrulmuş Antep Fıstığı",
+      "image": "https://cdn.getir.com/product/576e42fdb78b0a0300b12867_tr_1580905123728.jpeg",
+      "alt": "90 g",
+      "price": 87.99
+    },
+    {
+      "id": 15,
+      "title": "Dankek Baton Mozaik",
+      "image": "https://market-product-images-cdn.getirapi.com/product/57ccb7ac-30b8-47a6-b347-629c2e161844.png",
+      "alt": "2 x 200 g",
+      "price": 45.50
+    },
+    {
+      "id": 16,
+      "title": "Ülker Çikolatalı Gofret",
+      "image": "https://cdn.getir.com/product/5edf97ba03f956a13d3d9632_tr_1660318758825.jpeg",
+      "alt": "5 x 36 g",
+      "price": 24.8
+    }
+  ]
